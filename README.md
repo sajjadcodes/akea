@@ -1,0 +1,2 @@
+# akea
+Wordpress blog theme
